@@ -1,0 +1,5 @@
+C:\Users\lcamacho\Documents\Workspace\HelloWorldService\HelloWorldService\bin\Debug\HelloWorldService.dll.config
+C:\Users\lcamacho\Documents\Workspace\HelloWorldService\HelloWorldService\bin\Debug\HelloWorldService.dll
+C:\Users\lcamacho\Documents\Workspace\HelloWorldService\HelloWorldService\bin\Debug\HelloWorldService.pdb
+C:\Users\lcamacho\Documents\Workspace\HelloWorldService\HelloWorldService\obj\Debug\HelloWorldService.dll
+C:\Users\lcamacho\Documents\Workspace\HelloWorldService\HelloWorldService\obj\Debug\HelloWorldService.pdb
